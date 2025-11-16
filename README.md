@@ -1,4 +1,4 @@
-# Hi, I'm mirkzx04
+# Hi, I'm Mirko
 
 I'm a student at **Sapienza University of Rome**, pursuing a degree in **Mathematical Sciences for Artificial Intelligence**.
 
