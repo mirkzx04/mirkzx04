@@ -20,7 +20,7 @@ Currently, I am fascinated by Generative AI and the rapid evolution of Large Lan
 ### 📫 How to reach me
 
 <p>
-    <a href="https://www.linkedin.com/in/tuo-profilo">
+    <a href="https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/mirko-bonifazi-57a336385">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     </p>
