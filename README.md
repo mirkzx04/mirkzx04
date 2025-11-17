@@ -1,12 +1,13 @@
 # Hi, I'm Mirko
 
-I'm a student at **Sapienza University of Rome**, pursuing a degree in **Mathematical Sciences for Artificial Intelligence**.
+I’m a student at Sapienza University of Rome, studying Mathematical Sciences for Artificial Intelligence.
 
-I am deeply passionate about Deep Learning. I enjoy not just using existing architectures, but re-implementing them from scratch to truly understand their inner workings. I love the challenge of fine-tuning models, experimenting with hyperparameters, and exploring different optimization techniques.
+I’m genuinely passionate about Deep Learning not just using models, but rebuilding them from scratch to understand every detail. I like experimenting with architectures, testing different hyperparameters, and playing with optimization techniques to see how they shape a model’s behavior.
 
-To stay current, I'm an avid reader of AI research papers—from foundational works to cutting-edge studies. I'm driven by the challenge of applying these theoretical concepts to solve real-world problems and explore my own experimental ideas (like my PCE project).
+I keep up with the field by reading a lot of research papers, from classic works to the latest releases. I enjoy taking these theoretical ideas and trying to apply them to real problems or to my own projects, like the PCE experiment I’m working on.
 
-Currently, I am fascinated by Generative AI and the rapid evolution of Large Language Models (LLMs). I'm particularly captivated by their emergent, human-like behaviors: not only their incredible capabilities but also their intriguing "flaws," such as sycophancy, which I find a compelling area of study.
+Right now, I’m especially interested in Generative AI and the fast progress of Large Language Models. Their emergent, almost human-like behaviors fascinate me not just their strengths, but also their quirky limitations, like sycophancy, which I find particularly interesting to study.
+
 
 ### 🛠️ My Tech Stack
 
