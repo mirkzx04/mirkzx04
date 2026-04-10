@@ -6,7 +6,7 @@ I’m genuinely passionate about Deep Learning not just using models, but rebuil
 
 I keep up with the field by reading a lot of research papers, from classic works to the latest releases. I enjoy taking these theoretical ideas and trying to apply them to real problems or to my own projects, like the PCE experiment I’m working on.
 
-Right now, I'm really into Generative AI and how fast Large Language Models are improving. I love their almost human like behaviors—not just the good stuff, but also their weird flaws, like sycophancy, which I especially want to study.
+Right now, I'm really into Generative AI and how fast Large Language Models are improving. I love their almost human like behaviors not just the good stuff, but also their weird flaws, like sycophancy, which I especially want to study.
 
 
 ### 🛠️ My Tech Stack
