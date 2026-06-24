@@ -3,5 +3,5 @@ Dreaming of becoming Iron Man
 </p>
 
 <p align="center">
-  <img src="./Glitchy Cube GIF.gif" width="500">
+  <img src="./Glitchy Cube GIF.gif" width="200">
 </p>
