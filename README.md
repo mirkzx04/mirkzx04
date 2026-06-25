@@ -1,7 +1,9 @@
+
+
 <p align="center">
-Dreaming of becoming Iron Man  
+  <img src="./dddd.gif">
 </p>
 
 <p align="center">
-  <img src="./Glitchy Cube GIF.gif" width="200">
+Ｄｒｅａｍｉｎｇ ｏｆ ｂｅｃｏｍｉｎｇ Ｉｒｏｎ Ｍａｎ 
 </p>
